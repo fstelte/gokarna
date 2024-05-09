@@ -1,0 +1,14 @@
+[Recent]
+    other = 'Recent'
+[error404]
+    other = 'Deze pagina bestaat nog niet'
+[home]
+    other = 'Startpagina'
+[nothing]
+    other = 'Hier is nog niets te zien😉'
+[previous]
+    other = 'Terug naar vorige pagina'
+[next]
+    other = 'Verder naar de volgende pagina'
+[tags]
+    other = 'Tags'
